@@ -1,6 +1,6 @@
-# Meteor on dotCloud
+# Meteorite on dotCloud
 
-To deploy your Meteor application on dotCloud, add the following files to your meteor project:
+To deploy your Meteorite-Meteor application on dotCloud, add the following files to your meteor project:
 
 - dotcloud.yml
 - .dotcloudbuilder
